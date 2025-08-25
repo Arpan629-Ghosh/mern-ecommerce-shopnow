@@ -8,7 +8,7 @@ import AdminProducts from "./pages/admin-view/Products";
 import AdminOrders from "./pages/admin-view/Orders";
 import AdminFeatures from "./pages/admin-view/Features";
 import ShoppingLayout from "./components/shopping-view/Layout";
-import NotFound from "./pages/not-found/Index";
+import NotFound from "./pages/not-found/index";
 import ShoppingHome from "./pages/shopping-view/Home";
 import ShoppingListing from "./pages/shopping-view/Listing";
 import ShoppingCheckout from "./pages/shopping-view/Checkout";
