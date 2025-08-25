@@ -1,4 +1,4 @@
-import ProductFilter from "@/components/shopping-view/filter";
+import ProductFilter from "@/components/shopping-view/Filter";
 import ProductDetailsDialog from "@/components/shopping-view/Product-details";
 import ShoppingProductTile from "@/components/shopping-view/Product-tile";
 import { Button } from "@/components/ui/button";
